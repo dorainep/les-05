@@ -1,0 +1,35 @@
+body{
+    background-position: top left;
+}
+
+main{
+    width: 600px;
+    height: 400px;
+    background: black;
+    background-position: top left;
+}
+
+.blok{
+    float: left;
+}
+
+#blok-01{
+    background: yellow;
+    height: 400px;
+    width: 200px;
+}
+
+
+#blok-02{
+    height: 400px;
+    width: 244px;
+    background: white;
+    margin-left: 8px;
+}
+
+#blok-03{
+    height: 400px;
+    width: 140px;
+    background: red;
+    margin-left: 8px;
+}
